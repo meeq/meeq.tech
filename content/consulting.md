@@ -14,3 +14,5 @@ Meeq Corporation can help at all stages of the Software Development Lifecycle:
 * DevOps + Release Engineering
 
 Contact [consulting@meeq.tech](mailto:consulting@meeq.tech) for inquiries.
+
+Consulting services are based out of Birdsboro, Pennsylvania.
