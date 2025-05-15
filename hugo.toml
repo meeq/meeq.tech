@@ -1,0 +1,4 @@
+baseURL = 'https://meeq.tech/'
+languageCode = 'en-us'
+title = 'Meeq Corporation'
+disableKinds = ['taxonomy', 'term']
