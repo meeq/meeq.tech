@@ -2,7 +2,7 @@
 @import "tailwindcss";
 
 main h1 {
-    @apply pl-[16px] ml-[-16px] indent-[-2px] border-l-2 font-bold text-lg;
+    @apply pl-[16px] ml-[-16px] indent-[-2px] border-l-2 font-bold text-xl;
 }
 
 main h2 {

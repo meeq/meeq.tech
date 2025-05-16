@@ -11,7 +11,7 @@ We believe in being good stewards of technology so that it continues working for
 Meeq Corporation can help you transform technological challenges into opportunities for greater efficiency,
 maintainability, and security, ensuring you stay ahead in our constantly-evolving digital world.
 
-## For Businesses
+## For businesses
 
 * Full-Stack Software Development
 * Information Systems Design
@@ -21,7 +21,7 @@ maintainability, and security, ensuring you stay ahead in our constantly-evolvin
 
 Contact [consulting@meeq.tech](mailto:consulting@meeq.tech) for inquiries.
 
-## For Individuals
+## For individuals
 
 * General software technical support
 * Home network design & troubleshooting

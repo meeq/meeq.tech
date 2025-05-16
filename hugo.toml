@@ -2,3 +2,8 @@ baseURL = 'https://meeq.tech/'
 languageCode = 'en-us'
 title = 'Meeq Corporation'
 disableKinds = ['taxonomy', 'term']
+
+[markup]
+  [markup.goldmark]
+    [markup.goldmark.renderer]
+      unsafe = true
